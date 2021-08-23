@@ -1,0 +1,24 @@
+<mat-dialog-content [formGroup]="form" (keydown.enter)="form.valid && createOrUpdate()">
+
+    <h3>{{data?'Update product':'Create product'}}</h3>
+    <div>
+
+        <mat-form-field>
+            <input [readonly]="this.data && this.data.name" matInput placeholder="name" formControlName="name">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="description" formControlName="description">
+        </mat-form-field>
+    </div>
+    <div>
+        <mat-form-field>
+            <input matInput placeholder="quantity" formControlName="quantity">
+        </mat-form-field>
+
+    </div>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-raised-button color="accent" mat-dialog-close tabindex="-1">Cancel</button>
+    <button mat-raised-button color="primary" [disabled]="!form.valid" tabindex="-1"
+        (click)="createOrUpdate()">{{data?'Edit':'Create'}}</button>
+</mat-dialog-actions>

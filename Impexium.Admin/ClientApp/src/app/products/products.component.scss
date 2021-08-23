@@ -1,0 +1,25 @@
+.products {
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    .mat-card-content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        table {
+            width: 100%;
+            .mat-header-cell:last-child {
+                text-align: center;
+            }
+        }
+        .available {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    .new-product {
+        float: right;
+        padding-top: 10px;
+    }
+}

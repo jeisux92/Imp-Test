@@ -1,0 +1,15 @@
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\Impexium.DataAccess.deps.json
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\ref\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\Impexium.DataAccess.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\ref\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\bin\Debug\net5.0\Impexium.Domain.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.DataAccess\obj\Debug\net5.0\Impexium.DataAccess.csproj.CopyComplete

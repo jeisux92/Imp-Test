@@ -1,0 +1,42 @@
+.mat-toolbar {
+  height: 7%;
+}
+
+.container {
+  width: 100vw;
+  height: 93%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+
+  .sidenav-content {
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 10%;
+    box-sizing: border-box;
+  }
+
+  .sidenav {
+    width: 12%;
+    .menu {
+      div {
+        background: #303030;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #4e4e4e;
+        border-radius: 4px;
+
+        a {
+          text-decoration: none;
+          color: white;
+          cursor: pointer;
+        }
+      }
+      hr {
+        padding: 0;
+        margin: 0;
+      }
+    }
+  }
+}

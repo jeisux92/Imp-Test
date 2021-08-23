@@ -1,0 +1,12 @@
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\bin\Debug\net5.0\Impexium.Domain.deps.json
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\bin\Debug\net5.0\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\bin\Debug\net5.0\ref\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\bin\Debug\net5.0\Impexium.Domain.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\ref\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Domain\obj\Debug\net5.0\Impexium.Domain.pdb

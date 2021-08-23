@@ -1,0 +1,16 @@
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.Services.deps.json
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.Services.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\ref\Impexium.Services.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.Services.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\ref\Impexium.Services.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\obj\Debug\net5.0\Impexium.Services.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.Repositories.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.DataAccess.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Services\bin\Debug\net5.0\Impexium.Repositories.pdb

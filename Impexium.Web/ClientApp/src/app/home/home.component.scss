@@ -1,0 +1,18 @@
+.products {
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    .mat-card-content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        table {
+            width: 100%;           
+        }
+        .available {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}

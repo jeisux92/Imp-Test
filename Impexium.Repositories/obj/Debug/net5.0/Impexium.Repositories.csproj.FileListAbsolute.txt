@@ -1,0 +1,17 @@
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.Repositories.deps.json
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.Repositories.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\ref\Impexium.Repositories.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.Repositories.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.DataAccess.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.DataAccess.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.csproj.AssemblyReference.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.AssemblyInfoInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.AssemblyInfo.cs
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\ref\Impexium.Repositories.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.Domain.dll
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\bin\Debug\net5.0\Impexium.Domain.pdb
+C:\Users\GabrielM\Documents\Tests\Impexium\Impexium\Impexium.Repositories\obj\Debug\net5.0\Impexium.Repositories.csproj.CopyComplete
